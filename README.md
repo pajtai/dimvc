@@ -34,4 +34,5 @@ module.export = function(log) {
 
 See the [hello world](https://github.com/pajtai/dimvc-hello-world) for an example.
 
-
+* 2014-10-14 0.0.0-beta.1 Initial release
+* 2014-10-15 0.0.0-beta.2 Work around models and added body parse
