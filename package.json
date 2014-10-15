@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pajtai/dimvc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pajtai/dimvc/issues"
+  },
+  "author": "Peter Ajtai",
   "license": "MIT",
   "dependencies": {
     "body": "^4.5.0",
