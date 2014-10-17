@@ -1,8 +1,8 @@
 # dimvc
 
-## Usage
+Experimental mvc framework built on top of express using argument name dependency injection (dependable).
 
-Experimental mvc framework built on top of [express](http://expressjs.com/) using argument name dependency injection ([dependable](https://www.npmjs.org/package/dependable)).
+## Usage
 
 Dependencies are auto created based on the name of the files in several directories.
 
