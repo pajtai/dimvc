@@ -60,7 +60,7 @@ dimvc
 
 See the [hello world](https://github.com/pajtai/dimvc-hello-world) for an example.
 
-
+* 2014-10-17 0.0.1 Readme fix
 * 2014-10-17 0.0.0 Unit and integration test support
 * 2014-10-15 0.0.0-beta.3 Adding github info to pkg.json
 * 2014-10-15 0.0.0-beta.2 Work around models and added body parse
