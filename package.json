@@ -24,6 +24,7 @@
     "jade": "^1.7.0",
     "lodash": "2.4.1",
     "mongoose": "^3.8.17",
+    "mongoose-mock": "^0.4.0",
     "mongoose-q": "0.0.13",
     "winston": "^0.8.1"
   }
